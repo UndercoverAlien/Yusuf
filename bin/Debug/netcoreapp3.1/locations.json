@@ -1,0 +1,24 @@
+﻿{
+  "locations": [
+    {
+      "title": "IT-IS International",
+      "lat": "54.463630",
+      "long": "-1.177880"
+    },
+    {
+      "title": "Novacyt Group (France)",
+      "lat": "48.7809496",
+      "long": "2.1900052"
+    },
+    {
+      "title": "Primerdesign Ltd",
+      "lat": "50.981347",
+      "long": "-1.388894"
+    },
+    {
+      "title": "Novacyt Group (UK)",
+      "lat": "51.329971",
+      "long": "-0.762244"
+    }
+  ]
+}
