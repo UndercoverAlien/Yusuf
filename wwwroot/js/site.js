@@ -10,7 +10,7 @@ function LoadMap() {
 var url = "/Home/GetLocations";
 
 $('#btnShowLocations').click(function () {
-    console.log("Debug 1.")
+    console.log("Debug 1")
     var url = "/Home/GetLocations";
     $.getJSON(url, null, function (data) {
         var pins = [];
